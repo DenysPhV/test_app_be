@@ -1,0 +1,9 @@
+fastapi==0.69.0
+uvicorn==0.15.0
+sqlalchemy==1.4.25
+passlib==1.7.4
+cachetools==5.2.1
+python-jose==3.3.0
+
+
+
